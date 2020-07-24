@@ -1,5 +1,6 @@
 # GESTBOARD - Gesture Controlled Keyboard
-
+MPU-6050 3-Axis Accelerometer & Gyroscope Sensor is integrated with ESP-8266 Node-MCU to draw and record air gestures of characters and display them on tkinter
+using pygarl python library and SVM machine learning algorithm
 
 
 # What is pyGARL?
